@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Stay Awesome</h1>
+<h1 align="center">Hi 👋, Stay Awesome!</h1>
 <h3 align="center">I'm a passionate web developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=acek27&label=Profile%20views&color=0e75b6&style=flat" alt="acek27" /> </p>
