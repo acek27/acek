@@ -31,6 +31,5 @@
 
 
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=acek27&show_icons=true" alt="acek27" />
-  &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acek27&layout=compact" alt="acek27" />
+  &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acek27&layout=compact" alt="acek27" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=acek27&show_icons=true" alt="acek27" />
 </p>
