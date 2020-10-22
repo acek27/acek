@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, Stay Awesome!</h1>
 <h3 align="center">I'm a passionate web developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=acek27&label=Profile%20views&color=0e75b6&style=flat" alt="acek27" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=acek27" alt="acek27" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/cek_acek" target="blank"><img src="https://img.shields.io/twitter/follow/cek_acek?logo=twitter&style=for-the-badge" alt="cek_acek" /></a> </p>
 
